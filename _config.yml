@@ -7,7 +7,6 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
 title                    : "Ibrahim Kaddouri"
 title_separator          : "-"
 description              : &description "I am a second year PhD student at Laboratoire de Mathématiques d'Orsay"
@@ -20,7 +19,7 @@ repository               : "kaddouriibrahim/kaddouriibrahim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "My_pic.png"
   name             : "Ibrahim Kaddouri"
   bio              : "2nd year PhD student"
   location         : "France"
