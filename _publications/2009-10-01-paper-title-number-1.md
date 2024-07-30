@@ -2,9 +2,8 @@
 title: "Model-based clustering using nonparametric hidden Markov models"
 collection: arXiv preprint
 permalink: 'https://arxiv.org/abs/2309.12238'
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'This paper analyzes the Bayes risk of clustering when observations come from a HMM'
+date: 2023-09-25
 paperurl: 'https://arxiv.org/abs/2309.12238'
 ---
 
