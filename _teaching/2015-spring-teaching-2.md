@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching"
 permalink: /teaching/2023-spring-teaching-1
 venue: "Polytech Paris-Saclay"
-date: 2023-2024
+date: 2023
 location: "Gif-Sur-Yvette, France"
 ---
 
