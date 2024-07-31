@@ -11,4 +11,4 @@ I am a second year PhD student at [Université Paris-Saclay](https://www.univers
 
 Research interests
 ======
-I have been working on topics related to inference on dependent data, mainly Hidden Markov Models and preferential attachement random graphs. I am interested in understanding the added value of dependence with respect to the usual i.i.d. setting. I also have a broad interest in nonparametric statistics, deep learning and sequential learning.
+I have been working on topics related to inference on dependent data, mainly Hidden Markov Models and preferential attachement random graphs. I am particularly interested in understanding the added value of dependence with respect to the usual i.i.d. setting. I also have a broad interest in nonparametric statistics and sequential learning.
