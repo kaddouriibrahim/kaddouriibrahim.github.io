@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * 2022-2025 (expected): Ph.D in Statistics, Statistical inference on dependent data.
-* 2021-2022: Master 2 Mathematics of randomness, Probability & Statistics track, Paris-Saclay University.
-* 2018-2022: CentraleSupélec, Applied mathematics & Computer science.
+* 2021-2022: Master 2 Mathematics of randomness, Probability & Statistics track, Université Paris-Saclay.
+* 2018-2022: Diplôme d'ingénieur, Applied mathematics & Computer science, CentraleSupélec.
 
 Work experience
 ======
