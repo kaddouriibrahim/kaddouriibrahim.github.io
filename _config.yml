@@ -7,11 +7,13 @@
 # server process.
 
 # Basic Site Settings
+locale                   : "en-US"
 title                    : "Ibrahim Kaddouri"
 title_separator          : "-"
+name                     : &name "Ibrahim Kaddouri"
 description              : &description "I am a second year PhD student at Laboratoire de Mathématiques d'Orsay"
 url                      : https://kaddouriibrahim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : "kaddouriibrahim/kaddouriibrahim.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +24,7 @@ author:
   avatar           : "My_picture.png"
   name             : "Ibrahim Kaddouri"
   bio              : "2nd year PhD student"
-  location         : "France"
+  location         : "Orsay, France"
   employer         : "Université Paris-Saclay"
   uri              : # URL
   email            : "ibrahim.kaddouri@universite-paris-saclay.fr" 
