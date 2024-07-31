@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/) working under the supervision of [Elisabeth Gassiat](https://www.imo.universite-paris-saclay.fr/~elisabeth.gassiat/) and [Zacharie Naulet](https://www.imo.universite-paris-saclay.fr/~zacharie.naulet/) at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/). 
+I am a second year PhD student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/) working under the supervision of [Elisabeth Gassiat](https://www.imo.universite-paris-saclay.fr/~elisabeth.gassiat/) and [Zacharie Naulet](https://www.imo.universite-paris-saclay.fr/~zacharie.naulet/) at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/). I have been working on topics related to inference on dependent data, mainly Hidden Markov Models and preferential attachement random graphs. I am interested in general questions arising in these settings: estimation, change-point detection/localization, 
 
 Research interests
 ======
-I have been working on topics related to inference on dependent data, mainly Hidden Markov Models and preferential attachement random graphs. I am particularly interested in understanding the added value of dependence with respect to the usual i.i.d. setting. I also have a broad interest in nonparametric statistics and sequential learning.
+I am particularly interested in understanding the added value of dependence with respect to the usual i.i.d. setting. I also have a broad interest in nonparametric statistics and sequential learning.
