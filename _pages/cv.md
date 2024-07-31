@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2022-2025 (expected): Ph.D in Statistics, Statistical inference on dependent data.
+* 2021-2022: Master 2 Mathematics of randomness, Probability & Statistics track, Paris-Saclay University.
+* 2018-2022: CentraleSupélec, Applied mathematics & Computer science.
 
 Work experience
 ======
