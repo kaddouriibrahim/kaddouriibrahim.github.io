@@ -11,7 +11,7 @@ title                    : "Ibrahim Kaddouri"
 title_separator          : "-"
 description              : &description "I am a second year PhD student at Laboratoire de Mathématiques d'Orsay"
 url                      : https://kaddouriibrahim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "kaddouriibrahim" # the subpath of your site, e.g. "/blog"
 repository               : "kaddouriibrahim/kaddouriibrahim.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -40,7 +40,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://kaddouriibrahim.github.io"
+  github           : "kaddouriibrahim"
   kaggle           : # Username  
   stackoverflow    : "1009209/ibra"
 
