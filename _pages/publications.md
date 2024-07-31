@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
+Main Papers
+---
+> I.Kaddouri, Z.Naulet, E.Gassiat, **"On the impossibility of detecting a late change-point in the preferential attachment random graph model"**, *arXiv preprint*. [[arxiv](https://arxiv.org/abs/2407.18685)]
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+---
+> E.Gassiat, I.Kaddouri, Z.Naulet, **"Model-based clustering using nonparametric hidden Markov models"**, *arXiv preprint*.  [[arxiv](https://arxiv.org/abs/2309.12238)]
