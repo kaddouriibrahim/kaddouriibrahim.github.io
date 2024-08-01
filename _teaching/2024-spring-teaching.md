@@ -8,5 +8,5 @@ date: 2023/2024
 location: "Gif-Sur-Yvette, France"
 ---
 
-Exercise sessions for probability and statistics for [PEIP2](https://www.polytech.universite-paris-saclay.fr/en/course/polytech-preparatory-cycle-peip) students at [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/).
+Exercise sessions in probability and statistics for [PEIP2](https://www.polytech.universite-paris-saclay.fr/en/course/polytech-preparatory-cycle-peip) students at [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/).
 
