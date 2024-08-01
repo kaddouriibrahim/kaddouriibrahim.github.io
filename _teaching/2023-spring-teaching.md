@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: Teaching
 permalink: /teaching/2023-spring-teaching-1
-venue: ""
+venue: 
 date: 2023-01-15
 location: "Gif-Sur-Yvette, France"
 ---
