@@ -3,7 +3,7 @@ title: "Organizer of the master students' seminar"
 collection: seminar
 type: Seminar
 permalink: /teaching/Seminar
-venue:"Laboratoire de Mathématiques d'Orsay"
+venue: "Laboratoire de Mathématiques d'Orsay"
 date: 2023-01-15
 location: "Orsay, France"
 ---
