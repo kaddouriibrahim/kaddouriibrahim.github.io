@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: Teaching
 permalink: /teaching/2024-spring-teaching-1
-venue:
+venue: "Polytech Paris-Saclay"
 date: 2024-01-15
 location: "Gif-Sur-Yvette, France"
 ---
