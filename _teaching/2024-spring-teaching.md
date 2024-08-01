@@ -4,7 +4,7 @@ collection: teaching
 type: Teaching
 permalink: /teaching/2024-spring-teaching-1
 venue: ""
-date: 2024-01-15
+date: 2023/2024
 location: "Gif-Sur-Yvette, France"
 ---
 
