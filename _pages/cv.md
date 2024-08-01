@@ -14,7 +14,7 @@ Education
 * 2022-2025 (expected): Ph.D in Statistics, Statistical inference on dependent data, Université Paris-Saclay.
 * 2021-2022: Master 2 Mathematics of randomness, Probability & Statistics track, Université Paris-Saclay.
 * 2018-2022: Diplôme d'ingénieur, Applied mathematics & Computer science, CentraleSupélec.
-A detailed resume can be found [here](https://kaddouriibrahim.github.io).
+A detailed resume can be found [here](https://kaddouriibrahim.github.io/files/CV.pdf).
 
 Publications
 ======
