@@ -12,7 +12,7 @@ title                    : "Ibrahim Kaddouri"
 title_separator          : "-"
 name                     : &name "Ibrahim Kaddouri"
 description              : &description "I am a third year PhD student at Laboratoire de Mathématiques d'Orsay"
-url                      : https://kaddouriibrahim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.imo.universite-paris-saclay.fr/~ibrahim.kaddouri # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : "kaddouriibrahim/kaddouriibrahim.github.io"
 
