@@ -12,4 +12,4 @@ Main Papers
 
 
 ---
-> E.Gassiat, I.Kaddouri, Z.Naulet, **"Clustering risk in Non-parametric Hidden Markov and I.I.D. Models"**, *To appear in Annals of Statistics*.  [[arxiv](https://arxiv.org/abs/2309.12238)]
+> E.Gassiat, I.Kaddouri, Z.Naulet, **"Clustering risk in Non-parametric Hidden Markov and I.I.D. Models"**, *The Annals of Statistics* Vol. 53, No. 6, 2409–2429, 2025. [[journal](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2F25-AOS2546)] [[arXiv](https://arxiv.org/abs/2309.12238)] [[HAL](https://hal.science/hal-04535823/document)]
