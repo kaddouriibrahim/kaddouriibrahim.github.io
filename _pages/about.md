@@ -7,8 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/) working under the supervision of [Elisabeth Gassiat](https://www.imo.universite-paris-saclay.fr/~elisabeth.gassiat/) and [Zacharie Naulet](https://www.imo.universite-paris-saclay.fr/~zacharie.naulet/) at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/). I have been working on topics related to inference on dependent data, mainly Hidden Markov Models and preferential attachement random graphs. More precisely, I seek to understand the problem of clustering when the observations come from a (nonparametric) Hidden Markov Model and how it differs from the usual i.i.d. case , and on the other hand, I study the fundamental limits of detection and localization of change-points in preferential attachment random graphs.
+I am a Research Fellow at the Department of Statistics of the University of Warwick working with [Tom Berrett](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/berrett/). I did my PhD at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/) under the supervision of [Elisabeth Gassiat](https://www.imo.universite-paris-saclay.fr/~elisabeth.gassiat/) and [Zacharie Naulet](https://www.imo.universite-paris-saclay.fr/~zacharie.naulet/) at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/).
 
 Main Research Interests
 ======
-HMMs, random graphs, nonparametric and high dimensional statistics, statistical learning theory, sequential learning, deep learning,...
+My previous research focused on statistical inference for dependent data, with an emphasis on Hidden Markov Models and preferential attachment random graphs. In particular, I investigated clustering problems for observations arising from nonparametric Hidden Markov Models, aiming to understand how dependence structures affect both methodology and theoretical guarantees compared to the classical i.i.d. setting.
+
+In parallel, I studied the fundamental limits of detection and localization of change-points in preferential attachment networks.
+
+My current research focuses on conditional independence testing in regression models.
+
+More broadly, my research interests include Hidden Markov Models, random graphs, nonparametric and high-dimensional statistics, and statistical learning theory.
