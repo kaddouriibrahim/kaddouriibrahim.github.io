@@ -15,7 +15,7 @@ I am a Research Fellow at the [Department of Statistics](https://warwick.ac.uk/f
 
 Main Research Interests
 ======
-My previous research focused on statistical inference for dependent data, with an emphasis on Hidden Markov Models and preferential attachment random graphs. In particular, I investigated clustering problems for observations arising from nonparametric Hidden Markov Models, aiming to understand how dependence structures affect both methodology and theoretical guarantees compared to the classical i.i.d. setting.In parallel, I studied the fundamental limits of detection and localization of change-points in preferential attachment networks.
+My previous research focused on statistical inference for dependent data, with an emphasis on Hidden Markov Models and preferential attachment random graphs. In particular, I investigated clustering problems for observations arising from nonparametric Hidden Markov Models, aiming to understand how dependence structures affect both methodology and theoretical guarantees compared to the classical i.i.d. setting. In parallel, I studied the fundamental limits of detection and localization of change-points in preferential attachment networks.
 
 My current research focuses on conditional independence testing in regression models.
 
