@@ -16,7 +16,7 @@ Main Papers
 
 My Thesis
 -
-**Title:** *Inference on dependent data : Contributions to hidden Markov and preferential attachment graph models. [[slides](https://kaddouriibrahim.github.io/files/slides/Slides_PhD_Defense.pdf)] [[manuscript](https://kaddouriibrahim.github.io/files/Thesis_Manuscript.pdf)]*
+**Title:** *Inference on dependent data : Contributions to hidden Markov and preferential attachment graph models. [[slides](https://kaddouriibrahim.github.io/files/slides/Slides_PhD_Defense.pdf)] [[manuscript](https://theses.hal.science/tel-05531950)]*
 
 
 **Abstract:**
